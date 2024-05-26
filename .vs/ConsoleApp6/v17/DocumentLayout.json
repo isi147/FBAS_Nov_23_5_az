@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\seyidmammadli_i\\source\\repos\\consoleapp6\\consoleapp6\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDB7D2-AB73-4D50-B9EC-EC0E938426B6}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp6\\Teacher.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:14:18.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Rank.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Rank.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Rank.cs",
+              "RelativeToolTip": "ConsoleApp6\\Rank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:02:27.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Police.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Police.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Police.cs",
+              "RelativeToolTip": "ConsoleApp6\\Police.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:01:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Security.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Security.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Security.cs",
+              "RelativeToolTip": "ConsoleApp6\\Security.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:46:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Worker.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Worker.cs",
+              "RelativeToolTip": "ConsoleApp6\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:39:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Seyidmammadli_i\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:33:52.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
